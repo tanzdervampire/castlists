@@ -1,0 +1,16 @@
+{
+  "name": "fb-cast-lists",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ingo Bürk",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "moment-business": "^3.0.1",
+    "sql.js": "^0.4.0"
+  }
+}
